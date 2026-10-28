@@ -1,0 +1,6 @@
+{
+  "name": "Super Baby",
+  "description": "Super Mario style platformer adventure featuring a cute baby hero with custom level editor and builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
